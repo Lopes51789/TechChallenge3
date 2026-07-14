@@ -19,6 +19,18 @@ Para isso, deverão ser utilizados obrigatoriamente:
 *   Draw.io para o desenho do diagrama da arquitetura da solução.
 *   Link da base de dados do Data Hackers:
 
+## Perguntas a serem respondidas
+
+1) Como está estruturado o mercado brasileiro de Dados?
+2) Quais perfis profissionais são mais valorizados pelo mercado?
+3) Qual é o cenário de diversidade de gênero nas carreiras de dados?
+4) Quais tecnologias apresentam maior adoção entre os profissionais?
+5) Qual é o índice de adoção de Inteligência Artificial e seu impacto?
+6) Existem diferenças relevantes entre regiões, senioridades ou modelos de
+trabalho?
+7) Quais oportunidades e desafios podem ser identificados para empresas
+que desejam investir em Dados e Inteligência Artificial?
+
 ## Entregaveis
 
 *   Material Executivo
