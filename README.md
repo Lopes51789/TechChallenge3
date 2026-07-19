@@ -20,6 +20,15 @@ Para isso, deverão ser utilizados obrigatoriamente:
 *   Link da base de dados do Data Hackers:
 
 ## Perguntas a serem respondidas
+O projeto deve aplicar conceitos de Applied Analytics para transformar os
+dados da pesquisa em informações úteis para a tomada de decisão. A equipe
+deverá explorar, tratar e analisar os dados com o objetivo de compreender o perfil
+dos profissionais de tecnologia e dados no Brasil, identificar tendências de
+mercado, mapear competências e tecnologias mais demandadas, avaliar
+diferenças por senioridade, região, modelo de trabalho e remuneração, além de
+propor recomendações estratégicas para empresas que desejam contratar,
+capacitar e investir em Dados, Analytics e Inteligência Artificial.
+Sua apresentação deverá responder, entre outras, às seguintes questões:
 
 1) Como está estruturado o mercado brasileiro de Dados?
 2) Quais perfis profissionais são mais valorizados pelo mercado?
